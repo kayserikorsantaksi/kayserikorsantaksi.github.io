@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kayserikorsantaksi.github.io/sitemap.xml
